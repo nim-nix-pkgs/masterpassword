@@ -11,6 +11,7 @@
   inputs.src-masterpassword-v0_2_0.ref   = "refs/tags/v0.2.0";
   inputs.src-masterpassword-v0_2_0.owner = "SolitudeSF";
   inputs.src-masterpassword-v0_2_0.repo  = "masterpassword";
+  inputs.src-masterpassword-v0_2_0.dir   = "";
   inputs.src-masterpassword-v0_2_0.type  = "github";
   
   inputs."nimcrypto".owner = "nim-nix-pkgs";
